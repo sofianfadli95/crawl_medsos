@@ -28,5 +28,8 @@ Now, for adding keyword for crawling :
 Now, to start crawling program :
 1. Choose one for available source (example : Twitter)
 2. Click "Start_Twitter"
+![alt text](images/start_web02.PNG "Logo Title Text 5")
 3. After that, you can check in the console that crawler program is running
+![alt text](images/result-01.PNG "Logo Title Text 6")
 4. You can check too on your kibana data that has entered
+![alt text](images/kibana.PNG "Logo Title Text 7")
