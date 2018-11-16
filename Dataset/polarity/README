@@ -1,0 +1,18 @@
+Berikut ini cara pengumpulan dataset bermakna positif maupun negatif :
+
+- neg : kata-kata maupun frase yang bermakna sedikit negatif
+Contoh : malas, lambat, sakit, cengeng, matre, tidak peduli
+- neg_2 : kata-kata maupun frase yang bermakna negatif
+Contoh : kecewa, marah, bohong, sombong, hina, rakus, serakah
+- neg_3 : kata-kata maupun frase yang bermakna sangat negatif (biasanya tindakan kriminal atau asusila)
+Contoh : perkosa, bunuh, sadis, bengis, kejam, korupsi, mutilasi
+
+- pos : kata-kata maupun frase yang bermakna sedikit positif
+Contoh : hemat, untung, manfaat, efisien, tampan, cantik, keren, unik
+- neg_2 : kata-kata maupun frase yang bermakna positif
+Contoh : jujur, ramah, baik, hebat, istimewa
+- neg_3 : kata-kata maupun frase yang bermakna sangat positif (biasanya kata-kata yang menunjukkan rasa prihatin atau bela sungkawa)
+Contoh : rela berkorban, tolong, simpati, percaya, dukung, selaras, tepat, salut
+
+Keterangan :
+Kata-kata yang diambil cukup hanya kata dasarnya saja, seperti pembunuhan hanya perlu dimasukkan kata dasarnya saja, yaitu bunuh. Kecuali apabila ada kata yang berbeda antara makna kata imbuhan dan makna kata dasarnya, tambahkan saja kata yg berimbuhannya. Contoh : meningkatkan (kata dasar : tingkat), bersatu (kata dasar : satu), menghargai (kata dasar : harga), berkorban (kata dasar : korban)

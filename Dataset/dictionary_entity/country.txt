@@ -1,0 +1,286 @@
+Republik Rakyat Cina	Beijing
+RRC	Beijing
+Jepang	Tokyo
+Korea Utara	Pyongyang
+Korea Selatan	Seoul
+Korea
+Taiwan	Taipei
+Mongolia	Ulan Bator
+Hong Kong	Hong Kong
+Bangladesh	Dhaka
+Afghanistan	Kabul
+Bhutan	Thimpu
+India	New Delhi
+Maladewa	Male
+Nepal	Kathmandu
+Pakistan	Islamabad
+Sri Lanka	Kolombo
+Kamboja	Phnom Penh
+Laos	Vientiane
+Myanmar	NayPyidaw
+Thailand	Bangkok
+Vietnam	Hanoi
+Brunei	Bandar Seri Begawan
+Filipina	Manila
+Indonesia	Jakarta
+Malaysia	Kuala Lumpur
+Singapura	Singapura
+Timor Leste	Dili
+Armenia	Yereven
+Azerbaijan	Baku
+Bahrain	Manama
+Siprus	Nicosia
+Georgia	Tiblisi
+Irak	Baghdad
+Yordania	Amman
+Kuwait	  Quwait
+Lebanon	  Beirut
+Oman	  Muscat
+Palestina	  Gaza
+Qatar	  Doha
+Arab Saudi	  Riyadh
+Suriah	  Damaskus
+Turki	Ankara
+Uni Emirat Arab	  Abu Dhabi
+Arab
+Yaman	  Sanaa
+Kazakhstan	  Astana
+Kirgizstan	  Bishkek
+Tajikistan	  Dushanbe
+Turkmenistan	Ashgabat
+Uzbekistan	Tashkent
+Amerika Serikat	  Washington DC
+Amerika
+Kanada	  Ottawa
+Meksiko	  Mexico City
+Antiqua	  St John's
+Belize	  Belmopan
+Dominika	  Rosseau
+El Savador	  San Salvador
+Guadelope	  Basse-Terre
+Guatemala	  Guatemala
+Haiti	  Port au Prince
+Kepulauan Grenada	  St George’s
+Honduras	  Tegucigalpa
+Jamaika	  Kingston
+Kosta Rika	  San Jose
+Kuba	  Havana
+Martinique	  Fort de France
+Nikaragua	  Managua
+Panama	  Panama
+Puerto Rico	  San Juan
+Rep Dominika	  Santo Domingo
+Saint Lucia	  Castries
+St Vincent & Grenadines	  Kingstown
+Trinidad and Tobago	  Port of Spain
+Argentina	  Buenos Aires
+Bolivia	  Sucre
+Brasil	  Brazilia
+Cile	  Santiago
+Ekuador	  Quito
+Guyana	  George Town
+Guyana Prancis	  Cayenne
+Prancis
+Kolombia	  Bogota
+Paraguay	  Assuncion
+Peru	  Lima
+Suriname	  Paramaribo
+Uruguay	  Montevidio
+Venezuela	  Caracas
+Afghanistan	  Kabul
+Afrika Selatan	  Pretoria	 Cape Town dan Bloemfontein
+Albania	  Tirane
+Aljazair	  Algiers
+Amerika Serikat	  Washington DC
+Andorra	  Andorra la Vella
+Angola	  Luanda
+Antigua and Barbuda	  Saint John’s
+Arab Saudi	  Riyadh
+Argentina	  Buenos Aires
+Armenia	  Yerevan
+Australia	  Canberra
+Austria	  Vienna
+Azerbaijan	  Baku
+Bahama	  Nassau
+Bahrain	  Manama
+Bangladesh	  Dhaka
+Barbados	  Bridgetown
+Belanda	  Amsterdam
+Belarusia	  Minsk
+Belgia	  Brussels
+Belize	  Belmopan
+Benin	  Porto-Novo
+Bhutan	  Thimphu
+Bolivia	  La Paz dan Sucre
+Bosnia dan Herzegovina	  Sarajevo
+Botswana	  Gaborone
+Brazil	  Brasilia
+Brunei Darusalam	  Bandar Seri Begawan
+Bulgaria	  Sofia
+Burkina Faso	  Ouagadougou
+Burundi	  Bujumbura
+Chad	  N’Djamena
+Chili	  Santiago
+China	  Beijing
+Cyprus	  Nicosia
+Denmark	  Copenhagen
+Djibouti	  Djibouti
+Dominika	  Roseau
+Ekuador	  Quito
+El Salvador	  San Salvador
+Eritrea	  Asmara
+Estonia	  Tallinn
+Ethiopia	  Addis Ababa
+Fiji	  Suva
+Filipina	  Manila
+Finlandia	  Helsinki
+Gabon	  Libreville
+Gambia	  Banjul
+Georgia	  Tbilisi
+Ghana	  Accra
+Guinea Khatulistiwa	  Malabo
+Grenada	  Saint George’s
+Guatemala	  Guatemala
+Guinea	  Conakry
+Guinea-Bissau	  Bissau
+Guyana	  Georgetown
+Haiti	  Port au Prince
+Honduras	  Tegucigalpa
+Hungaria	  Budapest
+Islandia	  Reykjavik
+India	  New Delhi
+Indonesia	  Jakarta
+Inggris	  London
+Iran	  Tehran
+Irak	  Baghdad
+Irlandia	  Dublin
+Israel	  Jerusalem
+Italia	  Rome
+Jamaika	  Kingston
+Jepang	  Tokyo
+Jerman	  Berlin
+Jordania	  Amman
+Kamboja	  Phnom Penh
+Kamerun	  Yaounde
+Kanada	  Ottawa
+Kazakhstan	  Astana
+Kenya	  Nairobi
+Kepulauan Marshall	  Majuro
+Kepulauan Solomon	  Honiara
+Kiribati	  Tarawa Atoll
+Kolombia	  Bogota
+Komoros	  Moroni
+Korea Selatan	  Seoul
+Korea Utara	  Pyongyang
+Kosovo	  Pristina
+Kosta Rica	  San Jose
+Kroasia	  Zagreb
+Kuba	  Havana
+Kuwait	  Kuwait
+Kyrgyzstan	  Bishkek
+Laos	  Vientiane
+Latvia	  Riga
+Lebanon	  Beirut
+Lesotho	  Maseru
+Liberia	  Monrovia
+Libia	  Tripoli
+Liechtenstein	  Vaduz
+Lithuania	  Vilnius
+Luxembourg	  Luxembourg
+Makedonia	  Skopje
+Madagaskar	  Antananarivo
+Malawi	  Lilongwe
+Malaysia	  Kuala Lumpur
+Maladewa	  Male
+Mali	  Bamako
+Malta	  Valletta
+Maroko	  Rabat
+Mauritania	  Nouakchott
+Mauritius	  Port Louis
+Meksiko	  Meksiko
+Mesir	  Kairo
+Moldova	  Chisinau
+Monako	  Monaco
+Mongolia	  Ulaanbaatar
+Montenegro	  Podgorica
+Mozambique	  Maputo
+Myanmar	Rangoon dan Naypyidaw
+Burma
+Namibia	  Windhoek
+Nauru	 beribukota di Distrik Yaren
+Negara Federasi Mikronesia	  Palikir
+Nepal	  Kathmandu
+Nikaragua	  Managua
+Niger	  Niamey
+Nigeria	  Abuja
+Norwegia	  Oslo
+Oman	  Muscat
+Pakistan	  Islamabad
+Palau	  Melekeok
+Palestina	  Gaza
+Panama	  Panama
+Pantai Gading	  Yamoussoukro dan Abidjan
+Papua New Guinea	  Port Moresby
+Paraguay	  Asuncion
+Peru	  Lima
+Prancis	  Paris
+Polandia	  Warsaw
+Portugal	  Lisbon
+Qatar	  Doha
+Republik Afrika Tengah	  Bangui
+Republik Kongo	  Brazzaville
+Republik Demokratik Kongo	  Kinshasa
+Republik Ceko	  Prague
+Republik Dominika	  Santo Domingo
+Rumania	  Bucharest
+Rusia	  Moscow
+Rwanda	  Kigali
+Saint Kitts and Nevis	  Basseterre
+Saint Lucia	  Castries
+Saint Vincent and the Grenadines	  Kingstown
+Samoa	  Apia
+San Marino	  San Marino
+Sao Tome and Principe	  Sao Tome
+Selandia Baru	  Wellington
+Senegal	  Dakar
+Serbia	  Belgrade
+Seychelles	  Victoria
+Sierra Leone	  Freetown
+Singapura	  Singapore
+Slovakia	  Bratislava
+Slovenia	  Ljubljana
+Somalia	  Mogadishu
+Spanyol	  Madrid
+Sri Lanka	  Kolombo dan Sri Jayewardenepura Kotte
+Sudan	  Khartoum
+Suriname	  Paramaribo
+Swaziland	  Mbabane
+Swedia	  Stockholm
+Switzerland	  Bern
+Siria	  Damascus
+Tanjung Verde	  Praia
+Taiwan	  Taipei
+Tajikistan	  Dushanbe
+Tanzania	  Dodoma
+Thailand	  Bangkok
+Timor Leste	  Dili
+Togo	  Lome
+Tonga	  Nuku’alofa
+Trinidad and Tobago	  Port of Spain
+Tunisia	  Tunis
+Turki	  Ankara
+Turkmenistan	  Ashgabat
+Tuvalu	  Vaiaku village	 Funafuti province
+Uganda	  Kampala
+Ukraina	  Kyiv
+United Arab Emirates	  Abu Dhabi
+Uruguay	  Montevideo
+Uzbekistan	  Tashkent
+Vanuatu	  Port-Vila
+Vatican	  Vatican
+Venezuela	  Caracas
+Vietnam	  Hanoi
+Yaman	  Sanaa
+Yunani	  Athena
+Zambia	  Lusaka
+Zimbabwe	  Harare

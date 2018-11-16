@@ -1,0 +1,6 @@
+Ini adalah dataset untuk melakukan analisis intensity scoring, yaitu untuk menilai seberapa besar dampak atau pengaruh yang akan ditimbulkan oleh tweet atau message yang diposting oleh netizen. Range dari penilaian intensity score adalah berkisar dari nilai 0 hingga 3. Apabila intensity scorenya bernilai 0, maka dampak yang ditimbulkan oleh tweet atau postingan tersebut tidak ada. Contohnya apabila seseorang memposting tentang kuliner atau liburan, maka biasanya dampak yang ditimbulkan oleh tweet tersebut sangat kecil, hampir tidak ada. Tetapi apabila nilai intensitynya besar, yaitu 3, maka dampak yang ditimbulkan oleh postingan tersebut cukup besar, contohnya apabila seseorang memposting tentang terorisme atau pembunuhan, maka bisa dipastikan dapat menimbulkan dampak yang cukup besar untuk para netizen yang membaca postingan tersebut.
+
+Berikut ini cara pengumpulan dataset untuk analisis intensity :
+- intensity : untuk kata-kata atau frase yang menimbulkan dampak yang kecil
+- intensity_2 : untuk kata-kata atau frase yang menimbulkan dampak yang sedang
+- intensity_3 : untuk kata-kata atau frase yang menimbulkan dampak yang besar

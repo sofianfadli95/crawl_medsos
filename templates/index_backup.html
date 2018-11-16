@@ -1,0 +1,186 @@
+<html lang="en">
+    <head>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+      <meta charset="utf-8">
+      <title>Scrapping your Data!</title>
+    </head>
+
+    <body class = "container">
+      <div id="banner" class="bg-info text-white p-3 mb-2">
+        <h1>Scrapping your Data!</h1>
+        <p class="lead">We're helping you to get your actual data with your keywords...</p>
+      </div>
+      <div id="inputform" class="form-group">
+        <form action="/" method="post">
+          <div class="form-inline">
+            <label for="keyword"> Keyword </label>
+            <input type="text" name="keyword" class="form-control ml-2"></input>
+          </div>
+
+          <label for="src" class="mt-3">Sources : </label>
+
+          <div class="">
+            <input type="radio" name="sources" value="twitter" id="twitter_check" onclick="showTwitter()"> Twitter</input>
+            <div id="text_twitter" style="display:none">
+              Consumer Key
+              <input type="text" name="ckey"></input>
+              <br></br>
+              Consumer Secret
+              <input type="text" name="csecret"></input>
+              <br></br>
+              Access Token
+              <input type="text" name="atoken"></input>
+              <br></br>
+              Access Secret
+              <input type="text" name="asecret"></input>
+            </div>
+          </div>
+
+          <div class="">
+            <input type="radio" name="sources" value="facebook"> Facebook</input>
+          </div>
+
+          <div class="">
+            <input type="radio" name="sources" value="instagram"> Instagram</input>
+          </div>
+
+          <div class="">
+            <input type="radio" name="sources" value="news" id="news_check" onclick="showNews()"> News</input>
+            <p id="text_news" style="display:none">
+                <caption>List of URLs news that are available now</caption>
+                <table border="1" class="col-sm-3 table table-bordered">
+                <thead class="bg-secondary text-white">
+                  <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">URLs</th>
+                  </tr>
+                </thead>
+                 {% for element in table_news %}
+                <tbody>
+                    <tr>
+                       <td scope="row"> {{ element[0] }} </td>
+                       <td scope="row"> {{ element[1] }} </td>
+                    </tr>
+                 {% endfor %}
+                </tbody>
+               </table>
+               <caption>You can add new url news in here</caption>
+               <div class="form-inline mb-3">
+                 <label for="name"> Website's Name</label>
+                 <input type="text" name="news_name" class="form-control ml-2"></input>
+                 <label for="url" class="ml-3"> URLs </label>
+                 <input type="text" name="news_url" class="form-control ml-2"></input>
+               </div>
+
+
+            </p>
+          </div>
+
+            <div class="form-inline mb-3">
+              <label for="url"> Elastic URL </label>
+              <input type="text" name="elastic_url" class="form-control ml-2"></input>
+              <label for="port" class="ml-3"> Port </label>
+              <input type="text" name="elastic_port" class="form-control ml-2"></input>
+            </div>
+
+          <input type="submit" name="submit" value="Add" class="btn btn-success"></input>
+          <input type="submit" name="submit" value="Delete" class="btn btn-danger"></input>
+        </form>
+      </div>
+
+      <p>List of Keywords</p>
+      <div class="row">
+        <table border="1" class="col-sm-3 table table-bordered">
+          <thead class="bg-secondary text-white">
+            <tr>
+              <th scope="col">Instagram</th>
+            </tr>
+          </thead>
+           {% for element in row_insta %}
+          <tbody>
+              <tr>
+                 <td scope="row"> {{ element[0] }} </td>
+              </tr>
+           {% endfor %}
+          </tbody>
+       </table>
+
+       <table border="1" class="col-sm-3 table table-bordered">
+         <thead class="bg-secondary text-white">
+           <tr>
+             <th scope="col">Twitter</th>
+           </tr>
+         </thead>
+          {% for element in row_twitter %}
+         <tbody>
+             <tr>
+                <td scope="row"> {{ element[0] }} </td>
+             </tr>
+          {% endfor %}
+         </tbody>
+       </table>
+
+       <table border="1" class="col-sm-3 table table-bordered">
+         <thead class="bg-secondary text-white">
+           <tr>
+             <th scope="col">Facebook</th>
+           </tr>
+         </thead>
+          {% for element in row_fb %}
+         <tbody>
+             <tr>
+                <td scope="row"> {{ element[0] }} </td>
+             </tr>
+          {% endfor %}
+         </tbody>
+       </table>
+
+       <table border="1" class="col-sm-3 table table-bordered">
+         <thead class="bg-secondary text-white">
+           <tr>
+             <th scope="col">News</th>
+           </tr>
+         </thead>
+          {% for element in row_news %}
+         <tbody>
+             <tr>
+                <td scope="row"> {{ element[0] }} </td>
+             </tr>
+          {% endfor %}
+         </tbody>
+       </table>
+     </div>
+   </body>
+   <script>
+   function showTwitter() {
+     // Get the checkbox
+     var checkBox = document.getElementById('twitter_check');
+     // Get the output text
+     var text = document.getElementById("text_twitter");
+
+     // If the checkbox is checked, display the output text
+     if (checkBox.checked == true) {
+       text.style.display = "block";
+     } else {
+       text.style.display = "none";
+     }
+   }
+
+   function showNews() {
+     // Get the checkbox
+     var checkBox = document.getElementById('news_check');
+     // Get the output text
+     var text = document.getElementById("text_news");
+     var form = document.getElementById("formNews");
+
+     // If the checkbox is checked, display the output text
+     if (checkBox.checked == true) {
+       text.style.display = "block";
+       form.style.display = "block";
+     } else {
+       text.style.display = "none";
+       form.style.display = "none";
+     }
+   }
+   </script>
+</html>

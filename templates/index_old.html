@@ -1,0 +1,133 @@
+<html lang="en">
+    <head>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+      <script src="script.js"></script>
+      <meta charset="utf-8">
+      <title>Scrapping your Data!</title>
+    </head>
+
+    <body class = "container">
+      <div id="banner" class="bg-info text-white p-3 mb-2">
+        <h1>Scrapping your Data!</h1>
+        <p class="lead">We're helping you to get your actual data with your keywords...</p>
+      </div>
+      <div id="inputform" class="form-group">
+        <form action="http://localhost:5000/submit" method="post">
+          <div class="form-inline">
+            <label for="keyword"> Keyword </label>
+            {{ form.keyword }}
+          </div>
+
+          <div>
+            {{ form.Sources.label }} {{ form.Sources }}
+          </div>
+
+          <div class="form-inline mb-3">
+            <label for="url"> Elastic URL </label>
+            {{ form.elastic_url }}
+            <label for="port" class="ml-3"> Port </label>
+            {{ form.elastic_port }}
+          </div>
+          <div>
+            {{ form.add }}
+            {{ form.delete }}
+          </div>
+        </form>
+      </div>
+
+      <p>List of Keywords</p>
+      <div class="row">
+        <table border="1" class="col-sm-3 table table-bordered">
+          <thead class="bg-secondary text-white">
+            <tr>
+              <th scope="col">Instagram</th>
+            </tr>
+          </thead>
+           {% for element in row_insta %}
+          <tbody>
+              <tr>
+                 <td scope="row"> {{ element[0] }} </td>
+              </tr>
+           {% endfor %}
+          </tbody>
+       </table>
+
+       <table border="1" class="col-sm-3 table table-bordered">
+         <thead class="bg-secondary text-white">
+           <tr>
+             <th scope="col">Twitter</th>
+           </tr>
+         </thead>
+          {% for element in row_twitter %}
+         <tbody>
+             <tr>
+                <td scope="row"> {{ element[0] }} </td>
+             </tr>
+          {% endfor %}
+         </tbody>
+       </table>
+
+       <table border="1" class="col-sm-3 table table-bordered">
+         <thead class="bg-secondary text-white">
+           <tr>
+             <th scope="col">Facebook</th>
+           </tr>
+         </thead>
+          {% for element in row_fb %}
+         <tbody>
+             <tr>
+                <td scope="row"> {{ element[0] }} </td>
+             </tr>
+          {% endfor %}
+         </tbody>
+       </table>
+
+       <table border="1" class="col-sm-3 table table-bordered">
+         <thead class="bg-secondary text-white">
+           <tr>
+             <th scope="col">News</th>
+           </tr>
+         </thead>
+          {% for element in row_news %}
+         <tbody>
+             <tr>
+                <td scope="row"> {{ element[0] }} </td>
+             </tr>
+          {% endfor %}
+         </tbody>
+       </table>
+     </div>
+   </body>
+   <script>
+   function showTwitter() {
+     // Get the checkbox
+     var checkBox = document.getElementById('twitter_check');
+     // Get the output text
+     var text = document.getElementById("text_twitter");
+
+     // If the checkbox is checked, display the output text
+     if (checkBox.checked == true) {
+       text.style.display = "block";
+     } else {
+       text.style.display = "none";
+     }
+   }
+
+   function showNews() {
+     // Get the checkbox
+     var checkBox = document.getElementById('news_check');
+     // Get the output text
+     var text = document.getElementById("text_news");
+     var form = document.getElementById("formNews");
+
+     // If the checkbox is checked, display the output text
+     if (checkBox.checked == true) {
+       text.style.display = "block";
+       form.style.display = "block";
+     } else {
+       text.style.display = "none";
+       form.style.display = "none";
+     }
+   }
+   </script>
+</html>

@@ -1,0 +1,13 @@
+Ini adalah dataset yang diperlukan untuk melakukan aspect scoring. Aspect scoring adalah analisa yang bertujuan untuk menilai bagaimana suatu konten yang diposting oleh seseorang di media sosial bersifat membully / mendominasi pembacanya atau bermaksud untuk memotivasi atau mendukung pembacanya. Range penilaian aspect scoreng berkisar dari nilai -3 hingga 3. Apabila nilai aspect dari suatu content bernilai -3, maka konten yang dishare oleh netizen tersebut bersifat sangat membully atau mendominasi pembacanya. Contoh postingan bernilai aspect -3 :
+	"Kalian harus tau bahwa perbuatan Indah itu sangat gila dan tidak masuk diakal. Jangan pernah percaya sekalipun kepadanya !!!"
+	"Kalian semua manusia fana sama saja !!! Tidak ada yang benar seorangpun di muka bumi ini..."
+	
+Sementara apabila nilai aspect dari suatu content bernilai 3, maka konten yang dishare oleh netizen tersebut bersifat mendukung atau memotivasi pembacanya. Contoh postingan bernilai aspect 3 :
+	"Yuk kita sama-sama membangun Indonesia menjadi negara yang lebih baik lagi ke depannya"
+	"Kita berharap agar Jokowi segera merespon setiap keluhan yang disampaikan oleh rakyat Indonesia"
+
+Berikut ini cara pengumpulan dataset untuk analisis aspect :
+- neg : untuk kata-kata maupun frase yang bersifat sedikit mem-bully atau mendominasi
+- neg_2 : untuk kata-kata maupun frase yang bersifat mem-bully atau mendominasi
+- pos : untuk kata-kata maupun frase yang bersifat sedikit memotivasi atau mendukung
+- pos_2 : untuk kata-kata maupun frase yang bersifat memotivasi atau mendukung

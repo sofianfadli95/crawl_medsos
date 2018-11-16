@@ -1,0 +1,716 @@
+Aceh	04°15'N	97°30'E
+Adaut	08°08'S	131°07'E
+Adi	04°15'S	133°30'E
+Adonara	08°15'S	123°05'E
+Adua	01°45'S	129°50'E
+Agats	05°33'S	138°00'E
+Gunung Agung	08°20'S	115°28'E
+Aimere	08°45'S	121°03'E
+Akelamo	01°35'N	129°40'E
+Alor	08°15'S	124°30'E
+Alusi	07°35'S	131°40'E
+Amahai	03°20'S	128°55'E
+Amamapare	04°53'S	136°38'E
+Ambon	03°43'S	128°12'E
+Ampanan	08°34'S	116°04'E
+Amuntai	02°28'S	115°25'E
+Amurang	01°05'N	124°40'E
+Kepulauan Anambas	03°20'N	106°30'E
+Anambas Is.	03°20'N	106°30'E
+Kepulauan Anambas	03°20'N	106°30'E
+Ansudu	02°11'S	139°22'E
+Anyer Kidul	06°04'S	105°53'E
+Arjuna	07°49'S	112°34'E
+Kepulauan Aru	06°00'S	134°30'E
+Aru Is	06°00'S	134°30'E
+Kepulauan Aru	06°00'S	134°30'E
+Kepulauan Asia	01°00'N	131°13'E
+Auponhia	01°58'S	125°27'E
+Kepulauan Ayu	00°35'N	131°05'E
+Baa	10°50'S	123°00'E
+Babar	08°00'S	129°30'E
+Babo	02°30'S	133°30'E
+Kepulauan Bacan	00°35'S	127°30'E
+Kepulauan Badas	00°45'N	107°05'E
+Bade	07°10'S	139°35'E
+Bagansiapiapi	02°12'N	100°50'E
+Baing	10°14'S	120°34'E
+Kepulauan Balabalangan	02°20'S	117°30'E
+Bali	08°20'S	115°00'E
+Bali	08°20'S	115°00'E
+Selat Bali	08°18'S	114°25'E
+Balikpapan	01°10'S	116°55'E
+Kepulauan Banda	04°37'S	129°50'E
+Banda Aceh	05°35'N	95°20'E
+Banda Elat	05°40'S	133°05'E
+Banda Is.	04°37'S	129°50'E
+Banda Sea	06°00'S	130°00'E
+Bandanaira	04°32'S	129°54'E
+Bandung	06°54'S	107°36'E
+Banggai	01°34'S	123°30'E
+Kepulauan Banggai	01°40'S	123°30'E
+Banggai Arch	01°40'S	123°30'E
+Sulawesi Bangka	01°50'N	125°05'E
+Sumatera Sumatera	02°00'S	105°50'E
+Selat Bangka	02°30'S	105°30'E
+Bangkalan	07°02'S	112°46'E
+Bangkinang	00°18'N	101°05'E
+Bangko	02°05'S	102°09'E
+Banjarmasin	03°20'S	114°35'E
+Bantaeng	05°32'S	119°56'E
+Bantul	07°55'S	110°19'E
+Kepulauan Banyak	02°10'N	97°10'E
+Banyumas	07°32'S	109°18'E
+Banyuwangi	08°13'S	114°21'E
+Barabai	02°32'S	115°34'E
+Barapasi	02°15'S	137°05'E
+Kepulauan Barat Daya	07°30'S	128°00'E
+Bukit Barisan	03°30'S	102°15'E
+Barito	04°00'S	114°50'E
+Batang	06°55'S	109°45'E
+Batanta	00°55'S	130°40'E
+Kapulauan Batu	00°30'S	98°25'E
+Batu Is.	00°30'S	98°25'E
+Kepulauan Batu	00°30'S	98°25'E
+Batuata	06°12'S	122°42'E
+Baturaja	04°11'S	104°15'E
+Baubau	05°25'S	122°38'E
+Bawean	05°46'S	112°35'E
+Belawan	03°33'N	98°32'E
+Belinyu	01°35'S	105°50'E
+Beliton Is.	03°10'S	107°50'E
+Belitung	03°10'S	107°50'E
+Bangkalis	01°30'N	102°10'E
+Bengkulu	03°50'S	102°12'E
+Bengkulu	03°48'S	102°16'E
+Benteng	06°10'S	120°30'E
+Beo	04°25'N	126°50'E
+Teluk Berau	02°30'S	132°30'E
+Berebere	02°25'N	128°45'E
+Selat Berhala	01°00'S	104°15'E
+Biak	01°10'S	136°06'E
+Biaro	02°05'N	125°26'E
+Billiton Is.	03°10'S	107°50'E
+Belitung	03°10'S	107°50'E
+Bima	08°22'S	118°49'E
+Binjai	03°20'N	98°30'E
+Binongko	05°57'S	124°02'E
+Bintan	01°00'N	104°00'E
+Bintuni	02°07'S	133°32'E
+Bireuen	05°14'N	96°39'E
+Biltar	08°05'S	112°11'E
+Blora	06°57'S	111°25'E
+Bogor	06°36'S	106°48'E
+Bojonegoro	07°11'S	111°54'E
+Bondowoso	07°55'S	113°49'E
+Teluk Bone	04°10'S	120°50'E
+Bonerate	07°25'S	121°05'E
+Kepulauan Bonerate	06°30'S	121°10'E
+Bonoi	01°45'S	137°41'E
+Bontang	00°10'N	117°30'E
+Bosnik	01°05'S	136°10'E
+Boyolali	07°32'S	110°35'E
+Brebes	06°52'S	109°03'E
+Buapinang	04°40'S	121°30'E
+Tanjung Bugel	06°26'S	111°03'E
+Bukittinggi	00°20'S	100°20'E
+Bula	03°06'S	130°30'E
+Teluk Buli	00°48'N	128°25'E
+Bulukumba	05°53'S	120°11'E
+Buntok	01°40'S	114°58'E
+Bunyu	03°35'N	117°50'E
+Buol	01°15'N	121°32'E
+Buru	03°30'S	126°30'E
+Buton	05°00'S	122°45'E
+Butung	05°00'S	122°45'E
+Buton	05°00'S	122°45'E
+Calang	04°37'N	95°37'E
+Careme	06°55'S	108°27'E
+Ciremai	06°55'S	108°27'E
+Celebes Sea	03°00'N	123°00'E
+Laut Celebes	03°00'N	123°00'E
+Teluk Cenderwasih	03°00'S	135°20'E
+Cepu	07°09'S	111°35'E
+Ceram	03°10'S	129°00'E
+Seram	03°10'S	129°00'E
+Ceram Sea	02°30'S	128°30'E
+Laut Ceram	02°30'S	128°30'E
+Seram Sea	02°30'S	128°30'E
+Laut Seram	02°30'S	128°30'E
+Ciamis	07°20'S	108°21'E
+Cijanjur	06°49'S	107°08'E
+Cijulang	07°42'S	108°27'E
+Cilacap	07°43'S	109°00'E
+Cirebon	06°45'S	108°32'E
+Ciremai	06°55'S	108°27'E
+Curup	04°26'S	102°13'E
+Dabo	00°30'S	104°33'E
+Pasirkuning	00°30'S	104°33'E
+Damar	07°07'S	128°40'E
+Dampier, Selat	00°40'S	131°00'E
+Dana	11°00'S	122°52'E
+Danau Poso	01°52'S	120°35'E
+Tanjung Datu	02°05'N	109°39'E
+Tanjong Datuk	02°05'N	109°39'E
+Tanjung Datu	02°05'N	109°39'E
+Demak	06°53'S	110°38'E
+Dempo	04°02'S	103°15'E
+Dendang	03°07'S	107°56'E
+Denpasar	08°39'S	115°13'E
+Digul	07°07'S	138°42'E
+Djakarta	06°09'S	106°49'E
+Jakarta	06°09'S	106°49'E
+Djawa	07°00'S	110°00'E
+Jawa	07°00'S	110°00'E
+Jazirah Doberai	01°25'S	133°00'E
+Dobo	44°46'N	18°04'E
+Doi	02°14'N	127°49'E
+Pulau Dolak	08°00'S	138°30'E
+Teluk Dondo	00°50'N	120°30'E
+Donggala	00°30'S	119°40'E
+Dumai	01°35'N	101°28'E
+Tanjung D' Urville	01°28'S	137°54'E
+Eliase	08°21'S	130°48'E
+Enarotali	03°55'S	136°21'E
+Ende	08°45'S	121°40'E
+Enggano	05°20'S	102°40'E
+Fakfak	02°55'S	132°18'E
+Tanjun Fatagar	02°46'S	131°57'E
+Teluk Flamingo	05°30'S	138°00'E
+Tanjung Flesko	00°29'N	124°30'E
+Flores	08°35'S	121°00'E
+Flores Sea	06°30'S	120°00'E
+Fluk	01°42'S	127°44'E
+Galela	01°50'N	127°49'E
+Gani	00°48'S	128°14'E
+Gani	00°48'S	128°14'E
+Ganyem	02°46'S	140°12'E
+Genyem	02°46'S	140°12'E
+Garut	07°14'S	107°53'E
+Gebe	00°05'N	129°25'E
+Geelvink B.	03°00'S	135°20'E
+Teluk Cenderwasih	03°00'S	135°20'E
+Genteng	07°22'S	106°24'E
+Genyem	02°46'S	140°12'E
+Geser	03°50'S	130°54'E
+Gomogomo	06°39'S	134°43'E
+Kepulauan Gorong	03°59'S	131°25'E
+Gorontalo	00°35'N	123°05'E
+Great Sangi	03°35'N	125°30'E
+Pulau Sangihe	03°35'N	125°30'E
+Greater Sunda Is.	07°00'S	112°00'E
+Gresik	07°13'S	112°38'E
+Tanjung Guhakolak	06°50'S	105°14'E
+Gumzai	05°28'S	134°42'E
+Gunungapi	06°45'S	126°30'E
+Gunungsitoli	01°15'N	97°30'E
+Halmahera	00°40'N	128°00'E
+Har	05°16'S	133°14'E
+Haya	03°23'S	129°30'E
+Tehoru	03°23'S	129°30'E
+Hollandia	02°28'S	140°38'E
+Jayapura	02°28'S	140°38'E
+Ibonma	03°29'S	133°31'E
+Idi	05°02'N	97°37'E
+Ilwaki	07°55'S	126°30'E
+Inanwatan	02°08'S	132°10'E
+Indramayu	06°20'S	108°19'E
+Irian Jaya	04°0'S	137°0'E
+Jailolo	01°05'N	127°30'E
+Selat Jailolo	00°05'N	129°05'E
+Jakarta	06°09'S	106°49'E
+Jambi	01°38'S	103°30'E
+Jambi	01°30'S	102°30'E
+Japen	01°50'S	136°00'E
+Yapen	01°50'S	136°00'E
+Jatibarang	06°28'S	108°18'E
+Jatinegara	06°13'S	106°52'E
+Java	07°00'S	110°00'E
+Jawa	07°00'S	110°00'E
+Jawa Barat	07°00'S	107°00'E
+Java Sea	04°35'S	107°15'E
+Laut Jawa	04°35'S	107°15'E
+Jawa Tengah	07°00'S	110°00'E
+Jawa Timur	08°00'S	113°00'E
+Jawa	07°00'S	110°00'E
+Jaya, Puncak	03°57'S	137°17'E
+Jayapura	02°28'S	140°38'E
+Pegunungan Jayawijaya	05°00'S	139°00'E
+Jemaja	03°05'N	105°45'E
+Jember	08°11'S	113°41'E
+Jepara	36°08'S	142°01'E
+Jogjakarta	07°49'S	110°22'E
+Yogyakarta	07°49'S	110°22'E
+Jombang	07°33'S	112°14'E
+Jorong	03°58'S	114°56'E
+Kabaena	05°15'S	122°00'E
+Kabanjahe	03°06'N	98°30'E
+Kaburuang	03°50'N	126°30'E
+Kahayan	03°40'S	114°00'E
+Kapulauan Kai	05°55'S	132°45'E
+Kai Besar	05°35'S	133°00'E
+Kai Is.	05°55'S	132°45'E
+Kepulauan Kai	05°55'S	132°45'E
+Kai Kecil	05°45'S	132°40'E
+Kaimana	03°39'S	133°45'E
+Kaironi	00°47'S	133°40'E
+Kalabahi	08°13'S	124°31'E
+Kalao	07°21'S	121°00'E
+Kalaotoa	07°20'S	121°50'E
+Kalianda	05°50'S	105°45'E
+Kalimantan	05°00'S	114°00'E
+Kalimantan Barat	03°00'S	110°30'E
+Kalimantan Selatan	02°30'S	115°30'E
+Kalimantan Tengah	02°00'S	113°30'E
+Kalimantan Timur	01°30'N	116°30'E
+Kampar	00°30'N	103°08'E
+Kampungbaru	01°05'N	120°50'E
+Tolitoli	01°05'N	120°50'E
+Teluk Kamrau	03°30'S	133°36'E
+Kandangan	02°50'S	115°20'E
+Kandanghaur	06°21'S	108°06'E
+Kepulauan Kangean	06°55'S	115°23'E
+Kangean Is.	06°55'S	115°23'E
+Kapuas	00°25'S	109°20'E
+Karakelong	04°35'N	126°50'E
+Karakitang	03°14'N	125°28'E
+Karambu	03°53'S	116°06'E
+Karanganyar	07°38'S	109°37'E
+Karawang	06°30'S	107°15'E
+Kepulauan Karimata	01°25'S	109°00'E
+Selat Karimata	02°00'S	108°40'E
+Karimata Is.	01°25'S	109°00'E
+Kepulauan Karimata	01°25'S	109°00'E
+Kepulauan Karimunjawa	05°50'S	110°30'E
+Karufa	03°50'S	133°20'E
+Kasiruta	00°25'S	127°12'E
+Katingan	03°30'S	113°00'E
+Mendawai	03°30'S	113°00'E
+Kawasi	01°38'S	127°28'E
+Kepulauan Kawio	04°30'N	125°30'E
+Kayan	02°55'N	117°35'E
+Kayeli	03°20'S	127°10'E
+Kayoa	00°01'N	127°28'E
+Kebumen	07°42'S	109°40'E
+Kediri	07°51'S	112°01'E
+Kafamenanu	09°28'S	124°29'E
+Kema	01°22'N	125°08'E
+Kendal	06°56'S	110°14'E
+Kendari	03°50'S	122°30'E
+Kendawangan	02°32'S	110°17'E
+Kepi	06°32'S	139°19'E
+Kerinci	01°40'S	101°15'E
+Ketapang	01°55'S	110°00'E
+Kimaam	07°58'S	138°53'E
+Kisar	08°05'S	127°10'E
+Klamono	01°08'S	131°30'E
+Koba	06°37'S	134°37'E
+Kofiau	01°11'S	129°50'E
+Kokas	02°42'S	132°26'E
+Kola	05°35'S	134°30'E
+Kolaka	04°03'S	121°46'E
+Kolepom	08°00'S	138°30'E
+Pulau Dolak	08°00'S	138°30'E
+Kolonodale	02°00'S	121°19'E
+Komodo	08°37'S	119°20'E
+Pulau Komoran	08°18'S	138°45'E
+Kotaagung	05°38'S	104°29'E
+Kotabaru	03°20'S	116°20'E
+Kotabumi	04°49'S	104°54'E
+Kotamobagu	00°57'N	124°31'E
+Kragan	06°43'S	111°38'E
+Krakatau	06°10'S	105°20'E
+Krakatoa	06°10'S	105°20'E
+Pulau Rakata	06°10'S	105°20'E
+Krau	03°19'S	140°05'E
+Kualajelai	02°58'S	110°46'E
+Kualakapuas	02°55'S	114°20'E
+Kualakurun	01°10'S	113°50'E
+Kualapembuang	03°14'S	112°38'E
+Kualasimpang	04°17'N	98°03'E
+Kuandang	00°56'N	123°01'E
+Kudus	06°48'S	110°51'E
+Kumai	02°44'S	111°43'E
+Kepulauan Kumamba	01°36'S	138°45'E
+Kuningan	06°59'S	108°29'E
+Kupang	10°19'S	123°39'E
+Kutaraja	05°35'N	95°20'E
+Banda Aceh	05°35'N	95°20'E
+Kwatisore	03°18'S	134°50'E
+Kwoka	00°31'S	132°27'E
+Labuha	00°30'S	127°30'E
+Labuhan	06°22'S	105°50'E
+Labuhanbajo	08°28'S	119°54'E
+Lahat	03°45'S	103°30'E
+Lahewa	01°22'N	97°12'E
+Lakor	08°15'S	128°17'E
+Lampung	05°30'S	104°30'E
+Langsa	04°30'N	97°57'E
+Larantuka	08°21'S	122°55'E
+Larat	07°00'S	132°00'E
+Lariang	01°26'S	119°17'E
+Pulau Laut	03°40'S	116°10'E
+Kepulauan Laut Kecil	04°45'S	115°40'E
+Lawele	05°13'S	122°57'E
+Lawu	07°40'S	111°13'E
+Lenmalu	01°45'S	130°15'E
+Lesser Sunda Is.	08°00'S	120°00'E
+Kepulauan Leti	08°10'S	128°00'E
+Leti Is.	08°10'S	128°00'E
+Letong	02°58'N	105°42'E
+Gunung Leuser	03°46'N	97°12'E
+Lhokkruet	04°55'N	95°24'E
+Lhokseumawe	05°10'N	97°10'E
+Liangpran	01°04'N	114°23'E
+Tanjung Libobo	0°54'S	128°28'E
+Lima	03°39'S	127°58'E
+Liman	07°48'S	111°45'E
+Lingga	0°12'S	104°37'E
+Kepulauan Lingga	0°10'S	104°30'E
+Lingga Arch	0°10'S	104°30'E
+Little Laut Is.	04°45'S	115°40'E
+Kepulauan Laut Kecil	04°45'S	115°40'E
+Liukang Tenggaja	06°45'S	118°50'E
+Kepulauan Sabalana	06°45'S	118°50'E
+Loji=Kasasi	01°38'S	127°28'E
+Lomblen	08°30'S	123°32'E
+Lombok	08°45'S	116°30'E
+Lomppbatang	05°24'S	119°56'E
+Longiram	0°05'S	115°45'E
+Longnawan	01°51'N	114°55'E
+Lubukinggau	03°15'S	102°55'E
+Lubuksikaping	0°10'N	100°15'E
+Lumajang	08°08'S	113°13'E
+Lumut Tanjung	03°50'S	105°58'E
+Luwuk	0°56'S	122°47'E
+MadiuM	07°38'S	111°32'E
+Madura	07°30'S	114°0'E
+Selat Madura	07°30'S	113°20'E
+Megelang	07°29'S	110°13'E
+MahakaM	0°35'S	117°17'E
+Majalengka	06°50'S	108°13'E
+Majene	06°50'S	108°13'E
+Makale	03°06'S	119°51'E
+Makasar	05°10'S	119°20'E
+Ujung Pandang	05°10'S	119°20'E
+Selat Makasar	01°0'S	118°20'E
+Makasar,str. Of	01°0'S	118°20'E
+Makian	0°20'N	127°20'E
+Malacca Str. Of	03°0'N	101°0'E
+Malamala	03°21'S	120°55'E
+Maliku	0°39'S	123°16'E
+Malili	02°42'S	121°06'E
+Malino	01°0'N	121°0'E
+Maluku	01°0'S	127°0'E
+Maluku	03°0'S	128°0'E
+Maluku Sea/Molucca Sea	0° 0	125°0'E
+Mamasa	02°55'S	119°20'E
+Mabberamo	02°0'S	137°50'E
+Mamuju	02°41'S	118°50'E
+Manado	01°29'N	124°51'E
+Mandala Puncak	04°44'S	140°20'E
+Mandar, Teluk	03°35'S	119°15'E
+Mandioli	0°40'S	127°20'E
+Manggar	02°50'S	108°10'E
+Manggawitu	04°08'S	133°32'E
+Mangkalihat Tanjung	01°02'N	118°59'E
+Mangole	01°50'S	125°55'E
+Manna	04°25'S	102°55'E
+Manokwari	0°54'S	134°0'E
+Manui	03°35'S	123°05'E
+Maoke, Pegunungan	03°40'S	137°30'E
+Mapia, Kepulauan	0°50'N	134°20'E
+Maratua	02°10'N	118°35'E
+Martapura, Kalimantan	03°22'S	114°47'E
+Martapura Sumatera	04°16'S	104°22'E
+MasaleMbo Kepulauan	05°35'S	114°30'E
+Masalima Kepulauan	05°04'S	117°05'E
+Masamba	02°30'S	120°15'E
+Masela	08°09'S	129°51'E
+Mashoi/Amahai	03°20'S	128°55'E
+Matak	03°18'N	106°16'E
+Mataram	08°35'S	116°07'E
+Mayu	01°30'N	126°30'E
+Mayu	01°30'N	126°30'E
+Medan	03°40'N	98°38'E
+Mekongga	03°39'S	121°15'E
+Melolo	09°53'S	120°40'E
+Memboro	09°30'S	119°30'E
+Mempawah	0°30'N	109°05'E
+Mendawai	03°30'S	113°0'E
+Menggala	04°30'S	1054°15'E
+Mentawai, Kepulauan	02°0'S	99°0'E
+Merak	06°10'N	106°26'E
+Merauke	08°29'S	140°24'E
+Meulaboh	04°11'N	96°03'E
+Meureudu	05°19'N	96°10'E
+Midai	0°0'N	150°0'E
+mindiptana	05°55'S	140°22'E
+Misool	01°52'S	130°10'E
+Mao	08°0'S	128°0'E
+Mojokerto	07°28'S	112°26'E
+Molu	06°45'S	131°40'E
+Moluccs Sea	06°45'S	125°0'E
+Moluccas/Maluku	01°0'S	127°0'E
+Mondego	03°34'S	122°09'E
+Monse	04°07'S	123°15'E
+Morotai	02°10'N	128°30'E
+Moutong	0°28'N	121°13'E
+Moya	08°10'S	117°40'E
+Muarabungo	01°28'S	102°52'E
+Muaraenim	03°40'S	103°50'E
+Muarajuloi	0°12'S	114°03'E
+Murakaman	0°02'S	116°45'E
+Muaratebo	01°30'S	102°26'E
+Muaratembesi	01°42'S	103°08'E
+Muaratewe	0°58'S	114°52'E
+Mubur Pulau	03°20'N	106°12'E
+Mukomuko	02°30'S	101°10'E
+Muller Pegunungan	0°30'N	113°30'E
+Muna	05°0'S	122°30'E
+Muntok	02°05'S	105°10'E
+Muria	06°36'S	110°53'E
+Musi	02°20'S	104°56'E
+Muting	07°23'S	140°20'E
+Nabire	03°15'S	135°26'E
+Namber	01°02'S	134°49'E
+Namlea	03°18'S	127°05'E
+Namrole	03°46'S	126°46'E
+Nangapinoh	0°20'S	111°44'E
+Nangatayap	01°32'S	110°34'E
+Nanusa Kepulauan	04°45'N	127°01'E
+Natal	0°35'N	99°07'E
+Natuna Besar, Kepulauan	04°0'N	108°15'E
+Natuna Is./Natuna Besar, Kepulauan	04°0'N	108°15'E
+Natuna Selatan, Kepulauan	02°45'N	109°0'E
+Ngabang	0°23'N	109°55'E
+Ngabordamlu Tanjung	06°56'S	134°11'E
+Ngawi	07°24'S	111°26'E
+Nias	01°0'N	97°30'E
+Nikiniki	09°49'S	124°30'E
+Nila	06°44'S	138°31'E
+Niut	0°55'N	110°06'E
+North Pagai I./Pagai Utara Pulau	02°35'S	100°0'E
+Nuboai	02°10'S	136°30'E
+Numfoor	01°0'S	134°50'E
+Nusa Barung	08°30'S	113°30'E
+Nusa Kambangan	07°40'S	108°10'E
+Nusa Tenggara Barat	08°50'S	117°30'E
+Nusa Tenggara Timur	09°30'S	122°0'E
+Obi	01°23'S	127°45'E
+Obilatu	01°25'S	127°20'E
+Okaba	08°06'S	139°42'E
+Oksibil	04°59'S	140°35'E
+Ombai, Selat	08°30'S	124°50'E
+Onang	03°02'S	118°49'E
+Pacitan	08°12'S	111°07'E
+Padaido Kepulauan	01°15'S	136°30'E
+Padang	01°0'S	100°20'E
+Padangpanjang	0°40'S	100°20'E
+Padangsidempuan	01°30'N	99°15'E
+Pagai Selatan Pulau	03°0'S	100°15'E
+Pagatan	03°33'S	115°59'E
+Painan	01°21'S	100°34'E
+Palangkaraya	02°16'S	113°56'E
+Paleleh	01°10'N	121°50'E
+Palembang	03°0'S	104°50'E
+Palopo	03°0'S	12°016'E
+Pamanukan	06°16'S	107°49'E
+Pampanua	04°16'S	120°08'E
+Panaitan	06°36'S	105°12'E
+Pandegelang	06°25'S	106°05'E
+Pangkah Tanjung	06°51'S	112°33'E
+Pangkajene	04°46'S	119°34'E
+Pangkalanbrandan	04°01'N	98°20'E
+Pangkalanbuun	02°41'S	111°37'E
+Pangkalpinang	02°0'S	106°0'E
+Pantar	08°28'S	124°10'E
+Parado	08°42'S	118°30'E
+Pare	07°43'S	112°12'E
+Parepare	04°0'S	119°40'E
+Parigi	0°50'S	120°5'E
+Pasirian	08°13'S	113°08'E
+Pasirkuning	0°30'S	104°33'E
+Pasuruan	07°40'S	112°44'E
+Patani	0°20'S	128°50'E
+Pati	06°45'S	111°01'E
+Pekalongan	06°53'S	109°40'E
+Pekanbaru	0°30'N	101°15'E
+Pelabuhan Ratu Teluk	07°05'S	106°30'E
+Pelabuhanratu	07°0'S	106°32'E
+Pelaihari	03°55'S	114°45'E
+Peleng	01°20'S	123°30'E
+Pemalang	06°53'S	109°23'E
+Pematangsiantar	02°57'N	99°05'E
+Pengalengan	07°09'S	107°30'E
+Penida Nusa	08°45'S	115°30'E
+Perabumulih	03°27'S	104°15'E
+Peureulak	04°48'N	97°45'E
+Pini	0°10'N	98°40'E
+Pinrang	03°46'S	119°41'E
+Pirimapun	06°20'S	138°24'E
+Piru	03°04'S	128°12'E
+Pising	05°08'S	121°53'E
+Poh	0°46'S	122°51'E
+Ponorogo	07°52'S	111°27'E
+Pontianak	0°03'S	109°15'E
+Poso	01°20'S	120°55'E
+Prapat	02°41'N	98°58'E
+Praya	08°39'S	116°17'E
+Probolinggo	07°46'S	113°13'E
+Purukcahu	0°35'S	114°35'E
+Purwakarta	06°35'S	107°29'E
+Purwodadi	07°07'S	110°55'E
+Purwokerto	07°25'S	109°14'E
+Putting Tanjung	03°31'S	111°46'E
+Putussibau	0°50'N	112°56'E
+Raba	08°36'S	118°55'E
+Raha	04°55'S	123°0'E
+Raijua	10°37'S	121°36'E
+Raja Ujung	03°40'N	96°25'E
+Raja Ampat Kepulauan	0°30'S	130°0'E
+Rakata Pulau	06°10'S	105°20'E
+Rambipuji	08°12'S	113°37'E
+Rangkasbitung	06°21'S	106s.15'E
+Ransiki	01°30'S	134°10'E
+Rantauprapat	02°15'N	99°50'E
+Rantemario	03°15'S	119°57'E
+Rebi	06°23'S	134°07'E
+Rembang	06°42'S	111°21'E
+Rengat	0°30'S	102°45'E
+Riau, Kepulauan	0°30'N	104°20'E
+Riau Arch./Riau, Kepulauan	0°30'N	104°20'E
+Rokan	2°0'N	100°50'E
+Romang	7°30'S	127°20'E
+Roti	10°50'S	123°0'E
+Ruteng	8°35'S	120°30'E
+Sabalana Kepulaunan	6°45'S	118°50'E
+Sabang	5°50'N	95°15'E
+Sailolof	1°15'S	130°46'E
+Salatiga	7°19'S	110°30'E
+Salawati	1°7'S	130°52'E
+Salayar	6°7'S	120°30'E
+Samarinda	0°30'S	117°9'E
+Sambar, Tanjung	2°59'S	110°19'E
+Sambas	1°20'N	109°20'E
+Sampang	7°11'S	113°13'E
+Sampit	2°34'S	113°0'E
+Sampit, Teluk	3°5'S	113°3'E
+Sanana	2°4'S	125°58'E
+Sanana	2°4'S	125°58'E
+Sangihe Kepulauan	3°0'N	125°30'E
+Sangihe Pulau	3°35'N	125°30'E
+Sangkapura	5°52'S	112°40'E
+Saonek	0°22'S	130°55'E
+Saparua	3°33'S	128°40'E
+Saran Gunung	0°30'S	111°25'E
+Sarmi	1°49'S	138°44'E
+Sarolangun	2°19'S	102°42'E
+Satui	3°50'N	115°27'E
+Saumlaki	7°55'S	131°20'E
+Sawahlunto	0°40'S	100°52'E
+Sawu Sea	9°30'S	121°50'E
+Sebuku	3°30'S	116°25'E
+Seget	1°24'S	1300°58'E
+Sekayu	2°51'S	103°51'E
+Selaru	8°9'S	131°0'E
+Seletan Tanjung	4°10'S	114°40'E
+Selpele	0°1'S	130°5'E
+Selu	7°32'S	130°55'E
+Semarang	7°0'S	110°26'E
+Semeru	8°4'S	112°55'E
+Semuda	2°51'S	112°58'E
+Sentani	2°36'S	140°37'E
+Sera,	2°41'N	108°35'E
+Serang	6°8'S	106°10'E
+Seribu, Kepulauan	5°36'S	106°33'E
+Sermata	8°15'S	128°50'E
+Serui	6°18'S	130°1'E
+Sesepe	1°30'S	127°59'E
+Sewer	5°53'S	134°40'E
+Sigli	5°25'N	96°0'E
+Simeulue	2°45'N	95°45'E
+Sinabang	2°30'N	96°24'E
+Singaraja	8°7'S	115°6'E
+singkang	4°8'S	120°1'E
+Singkep	1°0'N	108°57'E
+Sinjai	5°7'S	120°20'E
+Sintang	0°5'N	111°35'E
+Slamet	7°16'S	109°8'E
+Solor	8°27'S	123°0'E
+Sopi	2°34'N	128°28'E
+Sorong	0°55'S	131°15'E
+Supiori	1°0'S	136°0'E
+Surabaya	7°17'S	112°45'E
+Tahuna	3°38'N	125°30'E
+Tambuku	7°8'S	113°40'E
+Tanahgrogot	1°55'S	116°15'E
+Tanahmerah	6°5'S	140°16'E
+Tanimbar, Kepulauan	7°30'S	131°30'E
+Tanjungpandan	2°43'S	107°38'E
+Taritatu	2°54'S	138°27'E
+Tarutung	2°0'N	98°54'E
+Tegal	6°52'S	109°8'E
+Teluk Betung/Tanjungkarang	5°20'S	105°10'E
+Tembagapura	4°20'S	137°0'E
+Teminabuan	1°26'S	132°1'E
+Tengah	1°30'S	121°0'E
+Tenggara	3°50'S	122°0'E
+Tenggarong	0°24'S	116°58'E
+Tepa	7°52'S	129°31'E
+Teun	6°59'S	129°8'E
+Tidore	0°40'N	127°25'E
+Tifu	3°39'S	126°24'E
+Tilamuta	0°32'N	122°23'E
+Toba Danau	2°30'N	97°30'E
+Tobelo	1°45'N	127°56'E
+Toboli	0°38'S	120°5'E
+Togian Kepulauan	0°20'S	121°50'E
+Tojo	1°20'S	121°15'E
+Tokala	1°30'S	121°40'E
+Tolitoli	1°5'N	120°50'E
+Tolo Teluk	2°20'S	122°10'E
+Tondano	1°35'N	124°54'E
+Trenggalek	8°3'S	111°43'E
+Tual	5°38'S	132°44'E
+Tuban	6°54'S	112°3'E
+Ujung Pandang	5°10'S	119°20'E
+Umera	0°12'S	129°37'E
+Van Rees Pegunungan	2°35'S	138°15'E
+Wakre	0°19'S	131°5'E
+Wamena	4°4'S	138°57'E
+Wamulan	3°27'S	126°7'E
+Wangal	6°8'S	134°9'E
+Wangiwangi	5°22'S	123°37'E
+Wariap	1°30'S	134°5'E
+Warkopi	51°12'S	134°9'E
+Warsa	0°47'S	135°55'E
+Waru	3°30'S	130°36'E
+Wasian	1°47'S	133°19'E
+Wasior	2°43'S	134°30'E
+Watampone	4°29'S	120°25'E
+Wates	7°51'N	110°10'E
+Satuata/Batuata	6°12'S	122°42'E
+Watubela , Kepulauan	4°28'S	131°35'E
+We.	5°51'N	95°18'E
+Weda	0°21'N	1127°50'E
+Weda Teluk	0°20'N	128°0'E
+Wendsi	2°30'S	134°17'E
+Wenut	3°11'S	133°19'E
+Weri	3°10'S	132°38'E
+Wesiri	7°30'S	126°30'E
+Wetar	7°48'S	126°30'E
+Wlingi	8°5'S	112°25'E
+Wokam	5°45'S	134°28'E
+Wonosari	7°58'S	110°36'E
+Wonosobo	7°22'S	109°54'E
+Wosi	0°15'S	128°0'E
+Wowoni	4°5'S	123°5'E
+Wowoni	4°5'S	123°5'E
+Yamdena	7°45'N	131°20'E
+Yapen	1°50'S	136°10'E
+Yogyakarta	7°49'S	110°22'E
+Probolinggo	-7.756928	113.211502
+Situbondo	-7.7050532	113.9952789
+Bromo	-7.942494	112.953012
+Bremi	-7.96667	113.483

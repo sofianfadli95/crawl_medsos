@@ -1,0 +1,7 @@
+Ini adalah dataset untuk analisis scoring mood, yaitu seberapa senang atau seberapa sedih netizen pada saat mem-posting tweet / message di media sosial
+
+Berikut ini cara pengumpulan dataset untuk analisis mood :
+- happy : Untuk kata-kata maupun frase yang menggambarkan ekspresi senang
+- happy_2 : Untuk kata-kata maupun frase yang menggambarkan ekspresi sangat senang
+- sad : Untuk kata-kata maupun frase yang menggambarkan ekspresi sedih
+- sad_2 : Untuk kata-kata maupun frase yang menggambarkan ekspresi sangat sedih
