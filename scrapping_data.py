@@ -123,7 +123,8 @@ def submit():
                                        row_insta = set(keyword_insta), row_news = set(keyword_news), table_news = set(news_url),
                                        news_condition = news_condition, insta_condition = insta_condition, 
                                        twitter_condition = twitter_condition, fb_condition = fb_condition)
-                
+        
+        # Jika tombol 'Update_Twitter' ditekan        
         elif request.form['submit'] == 'Update_Twitter':
             ckey_twitter = request.form['ckey_twitter']
             csecret_twitter = request.form['csecret_twitter']
