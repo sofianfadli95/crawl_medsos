@@ -16,7 +16,7 @@ Now, open your IP address which your program is located :
 
 Now, for adding keyword for crawling :
 1. Fill form with the keyword that you want added 
-2. Next, choose one for availabel source
+2. Next, choose one for available source
 
 ![alt text](images/add_keyword.PNG "Logo Title Text 3")
 
@@ -24,3 +24,9 @@ Now, for adding keyword for crawling :
 4. And the keyword is successfully adding to your crawler
 
 ![alt text](images/add_keyword02.PNG "Logo Title Text 4")
+
+Now, to start crawling program :
+1. Choose one for available source (example : Twitter)
+2. Click "Start_Twitter"
+3. After that, you can check in the console that crawler program is running
+4. You can check too on your kibana data that has entered
