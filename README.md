@@ -2,7 +2,7 @@
 
 This program is created to crawling data from social media sources, likes Twitter, Instagram, Facebook, and News.
 The crawler that available nows is for Twitter and News. This program is running on CENTOS environment. 
-And make sure you have elasticsearch and kibana installed on your system because the data that has been crawled will be stored in elasticsearch.
+And make sure you have **Elasticsearch** and **Kibana** installed on your system because the data that has been crawled will be stored in **Elasticsearch**.
 
 And now, for running the program, using this command :
 
@@ -31,5 +31,5 @@ Now, to start crawling program :
 ![alt text](images/start_web02.png "Logo Title Text 5")
 3. After that, you can check in the console that crawler program is running
 ![alt text](images/result-01.png "Logo Title Text 6")
-4. You can check too on your kibana data that has entered
+4. You can check too on your **Kibana** data that has entered
 ![alt text](images/kibana.png "Logo Title Text 7")
