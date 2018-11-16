@@ -13,4 +13,11 @@ And now, for running the program, using this command :
 Now, open your IP address which your program is located :
 
 ![alt text](images/web_crawler.PNG "Logo Title Text 2")
- 
+
+Now, for adding keyword for crawling :
+1. Fill form with the keyword that you want added 
+2. Next, choose one for availabel source
+![alt text](images/add_keyword.PNG "Logo Title Text 3")
+3. After that, click "Add_Keyword"
+4. And the keyword is successfully adding to your crawler
+![alt text](images/add_keyword02.PNG "Logo Title Text 4")
