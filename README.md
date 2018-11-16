@@ -8,9 +8,9 @@ And now, for running the program, using this command :
 
 `python scrapping_data.py`
 
-![alt text](https://github.com/sofianfadli95/crawl_medsos/tree/master/images/start_crawler.png "Logo Title Text 1")
+![alt text](images/start_crawler.png "Logo Title Text 1")
 
 Now, open your IP address which your program is located :
 
-![alt text](https://github.com/sofianfadli95/crawl_medsos/tree/master/images/web_crawler.PNG "Logo Title Text 2")
+![alt text](images/web_crawler.PNG "Logo Title Text 2")
  
